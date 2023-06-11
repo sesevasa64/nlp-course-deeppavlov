@@ -1,0 +1,6 @@
+{
+    "n_embs_dim": 451,
+    "n_estimators": 324,
+    "accuracy": 0.665,
+    "step": 49
+}
